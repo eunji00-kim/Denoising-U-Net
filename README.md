@@ -59,7 +59,9 @@ matplotlib==3.7.5
 ## Combined U-Net with V-Net
 * Taking an idea of [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797) to improve performances
 * The file name of the code is ```uunet.py```
-  
+
+![image](https://github.com/eunji00-kim/Denoising-U-Net/assets/101125771/0acac631-3ad4-4e7d-afbe-d47b4464fad3)
+
 ---------------------------------------
 
 # Usage
