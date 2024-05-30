@@ -4,6 +4,8 @@
 * Original U-Net is a segmentation model, but this version works for **Denoising**.
 * referred from https://github.com/SSinyu/RED-CNN
 
+![image](https://github.com/eunji00-kim/Denoising-U-Net/assets/101125771/2fc1466b-4827-4e3e-9b66-1b9b29c1589e)
+
 
 ---------------------------------------
 
