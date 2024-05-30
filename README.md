@@ -11,8 +11,8 @@
 
 ## Dataset
 
-The 2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge by Mayo Clinic
-https://www.aapm.org/GrandChallenge/LowDoseCT/
+The 2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge by Mayo Clinic  
+<https://www.aapm.org/GrandChallenge/LowDoseCT/>
 
 The ```data_path``` should look like:
 
@@ -57,7 +57,7 @@ matplotlib==3.7.5
 ---------------------------------------
 
 ## Combined U-Net with V-Net
-* To improve performances, I took an idea from [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
+* Taking an idea of [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797) to improve performances
 * The file name of the code is ```uunet.py```
   
 ---------------------------------------
@@ -66,5 +66,3 @@ matplotlib==3.7.5
 * 1. Run ```dicom_to_numpy.py``` to dicom file to numpy.
   2. Run ```train.py```
   3. Run ```test.py```
-
-
